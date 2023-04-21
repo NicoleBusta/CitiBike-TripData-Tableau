@@ -26,13 +26,13 @@ Monthly CitiBike trip data for Jersey City, NJ, from January 2022 to March 2023 
 <ul> - Members account for 67.82% of total rides during the time period</ul>
 <ul> - Casual accounts for 32.18% of total rides during the time period</ul>
 
-<li>Visual #3: "Trips by Rider and Bike Type"
-<ul> - Line graph shows the flow of rides by rider type and by bike type</ul>
-<ul> - Members using Classic Bikes are the largest segment of users</ul>
+<li>Visual #3: "Percentage Change Month over Month"
+<ul> - Line graph shows the percentage change in rides by rider type</ul>
+<ul> - Members outpace non-members during the first half of the year</ul>
 
-<li>Visual #4: "Percentage Change Month over Month"
-<ul> - Additional line graph shows the flow of rides by rider type</ul>
-<ul> - Members are the largest segment during the early part of the year</ul>
+<li>Visual #4: "Trips by Rider and Bike Type"
+<ul> - Additonal line graph shows the flow of rides by rider type and by bike type</ul>
+<ul> - Members using Classic Bikes are the largest segment of users</ul>
 
 <li> Based on the trends identifed in the dashboard, several opportunities can be identified:
 <ul> - Usage dips during April; this would be an ideal month to complete any station maintenance and bike repairs</ul>
